@@ -4,7 +4,7 @@
 		<name>Homebrew</name>
 		<description>My own shelf of stuff</description>
 		<update version="0.0.7">
-			<file name="homebrew.index" url="https://raw.githubusercontent.com/Astelle/Aurora-Builder/homebrew.index" />
+			<file name="homebrew.index" url="https://raw.githubusercontent.com/Astellle/Aurora-Builder/homebrew.index" />
 		</update>
 	</info>
 	<files>
