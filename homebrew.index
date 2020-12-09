@@ -9,7 +9,7 @@
 	</info>
 	<files>
 
-		<!-- backgrounds -->
+		<-- backgrounds -->
 		<!file name="background-lover.xml" url="https://raw.githubusercontent.com/Astellle/Aurora-Builder/background-lover.xml" />
 	</files>
 </index>
