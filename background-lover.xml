@@ -4,10 +4,10 @@
         <name>Lover</name>
         <description>5e Homebrew Background.</description>
         <update version="0.0.5">
-            <file name="background-lover.xml" url="https://raw.githubusercontent.com/aurorabuilder/elements/master/user/backgrounds/background-lover.xml" />
+            <file name="background-lover.xml" url="https://raw.githubusercontent.com/Astellle/Aurora-Builder/background-lover.xml" />
         </update>
  </info>
-    <element name="Ashari" type="Background" source="5e Backgrounds Homebrew" id="ID_HOME_BACKGROUND_LOVER">
+    <element name="Lover" type="Background" source="5e Backgrounds Homebrew" id="ID_HOME_BACKGROUND_LOVER">
         <description>
             <p>You've always had a special kind of charm on people. For some reason, people see you as an ideal candidate for an evening of fun, or a lifelong partner. This ... skill ? ... gave you a rather strange point of view on life.</p>
             <p class="indent">  It might be a good idea to see with your DM the list of cities and towns in which you have lovers and determine who these lovers are beforehand for a more smooth introduction of their characters in the game.</p>
