@@ -4,7 +4,7 @@
         <name>Lover</name>
         <description>5e Homebrew Background.</description>
         <update version="0.0.5">
-            <file name="background-lover.xml" url="https://raw.githubusercontent.com/Astellle/Aurora-Builder/background-lover.xml" />
+            <file name="background-lover.xml" url="https://raw.githubusercontent.com/Astellle/master/Aurora-Builder/background-lover.xml" />
         </update>
  </info>
     <element name="Lover" type="Background" source="5e Backgrounds Homebrew" id="ID_HOME_BACKGROUND_LOVER">
