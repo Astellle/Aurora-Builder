@@ -4,12 +4,14 @@
 		<name>Homebrew</name>
 		<description>My own shelf of stuff</description>
 		<update version="0.0.7">
-			<file name="homebrew.index" url="https://raw.githubusercontent.com/Astellle/Aurora-Builder/homebrew.index" />
+			<file name="homebrew.index" url="https://raw.githubusercontent.com/Aurora-Builder/master/homebrew.index" />
 		</update>
 	</info>
 	<files>
-
+		<-- source -->
+		<file name="source.xml" url="https://raw.githubusercontent.com/Aurora-Builder/master/source.xml" />
+			
 		<-- backgrounds -->
-		<!file name="background-lover.xml" url="https://raw.githubusercontent.com/Astellle/Aurora-Builder/background-lover.xml" />
+		<file name="background-lover.xml" url="https://raw.githubusercontent.com/Aurora-Builder/master/background-lover.xml" />
 	</files>
 </index>
